@@ -1,0 +1,5 @@
+{
+  "name": "Style Match",
+  "description": "Find similar styles for less by uploading a photo.",
+  "requestFramePermissions": []
+}
